@@ -109,4 +109,4 @@ El contenido dentro de `site/` es el que se publica en **GitHub Pages**.
 ## 🚀 Demo del template
 
 Puedes visitar la demo del template aquí:  
-👉 [https://fablabbcn.github.io/efdi-template/](https://fablabbcn.github.io/efdi-template/)
+👉 [https://luzroxim.github.io/claudia-rodriguez/](https://luzroxim.github.io/claudia-rodriguez/)
