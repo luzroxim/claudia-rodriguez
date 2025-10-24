@@ -320,14 +320,21 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#laser-de-diodo-o-de-estado-solido" class="md-nav__link">
-    Láser de diodo o de estado sólido.
+  <a href="#laser-neodimio" class="md-nav__link">
+    Láser neodimio
   </a>
   
 </li>
         
       </ul>
     </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#generacion-de-archivos-para-corte-laser" class="md-nav__link">
+    Generación de archivos para corte láser
+  </a>
   
 </li>
       
@@ -503,14 +510,21 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#laser-de-diodo-o-de-estado-solido" class="md-nav__link">
-    Láser de diodo o de estado sólido.
+  <a href="#laser-neodimio" class="md-nav__link">
+    Láser neodimio
   </a>
   
 </li>
         
       </ul>
     </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#generacion-de-archivos-para-corte-laser" class="md-nav__link">
+    Generación de archivos para corte láser
+  </a>
   
 </li>
       
@@ -581,15 +595,51 @@ porque si bien el sistema es preciso la variedad de condiciones y materiales gen
 <h3 id="laser-fibra-optica">Láser fibra óptica<a class="headerlink" href="#laser-fibra-optica" title="Permanent link">&para;</a></h3>
 <p>Es un tipo de láser de estado sólido, potente y preciso. Es un corte eficiente en cuanto al consumo de energía y es más utilizado en materiales como el metal. </p>
 <p><img alt="" src="../../images/MT03/fibr2.jpg" /></p>
-<h3 id="laser-de-diodo-o-de-estado-solido">Láser de diodo o de estado sólido.<a class="headerlink" href="#laser-de-diodo-o-de-estado-solido" title="Permanent link">&para;</a></h3>
-<p>investigar un poco mas </p>
-<h1 id="archivo">Archivo<a class="headerlink" href="#archivo" title="Permanent link">&para;</a></h1>
+<h3 id="laser-neodimio">Láser neodimio<a class="headerlink" href="#laser-neodimio" title="Permanent link">&para;</a></h3>
+<p>Este láser
+ tiene una longitud de onda mucho más reducida y una intensidad más alta en comparación con los láseres de CO2. Esto permite el corte con láser a través de materiales más gruesos y robustos como los metales y algunas cerámicas. La desventaja que presenta este tipo de láser es que las piezas de la máquina se desgastan muy rápidamente, lo que hace que se necesite un mayor grado de mantenimiento.</p>
+<p>Entiendo que es un tipo de máquina que se utiliza más en industria. </p>
+<h2 id="generacion-de-archivos-para-corte-laser">Generación de archivos para corte láser<a class="headerlink" href="#generacion-de-archivos-para-corte-laser" title="Permanent link">&para;</a></h2>
 <p>Teniendo en cuenta la información anterior
 debemos que aprender a generar los
 archivos que necesitamos para poder trabajar con esta técnología, trabajamos con Joaquín en el armado de un archivo en fushion 360 y el desglose de piezas en un programa de 2D (por ejemplo illustrator o gimp) </p>
-<h1 id="kerffing">kerffing<a class="headerlink" href="#kerffing" title="Permanent link">&para;</a></h1>
-<h1 id="kinetica">kinetica<a class="headerlink" href="#kinetica" title="Permanent link">&para;</a></h1>
-<h1 id="diseno-parametrico">diseño paramétrico<a class="headerlink" href="#diseno-parametrico" title="Permanent link">&para;</a></h1>
+<p>Entonces, para este ejemplo trabajamos a partir del volumen, aplicando conceptos de diseño paramétrico, es decir generamos reglas y restricciones que hacen que nuestro diseño pueda modificarse automáticamen en funcion a esos &ldquo;parámetros&rdquo; por ejemplo: el espesor del material. </p>
+<p>Comenzamos asignando parámetros:
+Lado 100mm 
+Espesor 3mm
+Comenzamos trabajando en un plano lateral asignando su posición con el parametro lado/2
+Para trazar los lados del scketch usamos  el parametro Lado y para generar las formas de encastre usamos el parámetro espesor.
+Restringimos los lados y las piezas que debían ser iguales, esto genera que si modifico un aspecto del dibujo todo se verá afectado. </p>
+<p><img alt="" src="../../images/MT03/Lado1.png" /></p>
+<p>Luego de generar la forma deseada,
+extruimos el boceto con el parámetro espesor. </p>
+<p>Después
+ utilizamos la herramienta patrón circular, definimos la cantidad de lados (en este caso 4) y obtenemos los cuatro lados del cubo.</p>
+<p><img alt="" src="../../images/MT03/4lados.png" /></p>
+<p>Para dibujar las tapas utilizamos la herramienta proyectar sobre el plano superior, luego extruimos la forma con el comando expesor nuevamente, aquí tuve que tener la precaución de seleccionar la opción &ldquo;cuerpo nuevo&rdquo; para que no unificara las piezas en un solo cuerpo. </p>
+<p>A partir de la tapa superior, urilizamos la herramienta de simetrizar y generamos la pieza de la base.</p>
+<p><img alt="" src="../../images/MT03/6lados.png" /></p>
+<p>Pasamos al momento de crear el nesting, para usar esta funcion previamente debemos convertir los objetos en componentes, una vez realizado este paso
+(clic derecho sobre el objeto&gt;crear componente) podemos utilizar la herramienta <em>&ldquo;organizar&rdquo;</em>, seleccionamos el plano en el cual nos va a distribuir las piezas, podemos alterar los datos de margen y tamaño de lienzo a utilizar, aceptamos los cambios y logramos ver las piezas en plano. </p>
+<p><img alt="" src="../../images/MT03/nesting1.png" /></p>
+<p>Entonces con esta disposición de las piezas crearemos un nuevo scketch para poder exportar como DXF, usamos la herramienta de proyectar y lo veremos como en la siguiente imagen:</p>
+<p><img alt="" src="../../images/MT03/nesting2.png" /></p>
+<p><img alt="" src="../../images/MT03/nesting3.png" /></p>
+<p>En mi caso dibujé un rectángulo con las medidas de la cama que vamos a utilizar para ya exportar el archivo contemplando esas proporciones. </p>
+<p>Luego de realizar estos pasos, se exporta el Dxf lo guardamos en nuestro disco y pasamos a abrirlo en un programa vectorial, en mi caso utilicé Illustrator. </p>
+<p>Aquí debemos separar el archivo en capas de acuerdo a la acción que queremos que realice la máquina, esto luego será interpretado 
+ por el softwear CAM de la siguiente forma:</p>
+<ul>
+<li>Capa Azul: Corte</li>
+<li>Capa Verde: Raster (imagen)</li>
+<li>Capa Roja: Grabado. </li>
+</ul>
+<p>(Dependiendo del softwear o máquina estos códigos pueden ser diferentes)</p>
+<p>En el programa vectorial podemos generar dibujos o adaptar las imágenes al archivo con mayor libertad o fluidez. </p>
+<p><img alt="" src="../../images/MT03/illustrator1.png" /></p>
+<p>DXF importado</p>
+<p><img alt="" src="../../images/MT03/illustrator2.png" /></p>
+<p>DXF con modificaciones y capas. </p>
                 
                   
                     
@@ -598,7 +648,7 @@ archivos que necesitamos para poder trabajar con esta técnología, trabajamos c
 <div class="md-source-date">
   <small>
     
-      Last update: <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="October 24, 2025 16:23:48 UTC">October 24, 2025</span>
+      Last update: <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="October 24, 2025 22:13:40 UTC">October 24, 2025</span>
     
   </small>
 </div>
