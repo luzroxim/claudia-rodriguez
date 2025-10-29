@@ -615,23 +615,22 @@ porque si bien el sistema es preciso la variedad de condiciones y materiales gen
 <p>Entiendo que es un tipo de máquina que se utiliza más en industria. </p>
 <h2 id="generacion-de-archivos-para-corte-laser">Generación de archivos para corte láser<a class="headerlink" href="#generacion-de-archivos-para-corte-laser" title="Permanent link">&para;</a></h2>
 <p>Teniendo en cuenta la información anterior
-debemos que aprender a generar los
-archivos que necesitamos para poder trabajar con esta técnología, trabajamos con Joaquín en el armado de un archivo en fushion 360 y el desglose de piezas en un programa de 2D (por ejemplo illustrator o gimp) </p>
+debemos aprender a generar los
+archivos que necesitamos para poder trabajar con esta tecnología, trabajamos con Joaquín en el armado de un archivo en fushion 360 y el desglose de piezas en un programa de 2D (por ejemplo illustrator o inskape) </p>
 <p>Entonces, para este ejemplo trabajamos a partir del volumen, aplicando conceptos de diseño paramétrico, es decir generamos reglas y restricciones que hacen que nuestro diseño pueda modificarse automáticamen en funcion a esos &ldquo;parámetros&rdquo; por ejemplo: el espesor del material. </p>
 <p>Comenzamos asignando parámetros:
 Lado 100mm 
-Espesor 3mm
-Comenzamos trabajando en un plano lateral asignando su posición con el parametro lado/2
+Espesor 3mm</p>
+<p>Trabajamos en un plano lateral asignando su posición con el parametro lado/2
 Para trazar los lados del scketch usamos  el parametro Lado y para generar las formas de encastre usamos el parámetro espesor.
 Restringimos los lados y las piezas que debían ser iguales, esto genera que si modifico un aspecto del dibujo todo se verá afectado. </p>
 <p><img alt="" src="../../images/MT03/Lado1.png" /></p>
 <p>Luego de generar la forma deseada,
 extruimos el boceto con el parámetro espesor. </p>
-<p>Después
- utilizamos la herramienta patrón circular, definimos la cantidad de lados (en este caso 4) y obtenemos los cuatro lados del cubo.</p>
+<p>A continuación utilizamos la herramienta patrón circular, definimos la cantidad de lados (en este caso 4) y obtenemos los cuatro lados del cubo.</p>
 <p><img alt="" src="../../images/MT03/4lados.png" /></p>
 <p>Para dibujar las tapas utilizamos la herramienta proyectar sobre el plano superior, luego extruimos la forma con el comando expesor nuevamente, aquí tuve que tener la precaución de seleccionar la opción &ldquo;cuerpo nuevo&rdquo; para que no unificara las piezas en un solo cuerpo. </p>
-<p>A partir de la tapa superior, urilizamos la herramienta de simetrizar y generamos la pieza de la base.</p>
+<p>A partir de la tapa superior, utilizamos la herramienta de simetrizar y generamos la pieza de la base.</p>
 <p><img alt="" src="../../images/MT03/6lados.png" /></p>
 <p>Pasamos al momento de crear el nesting, para usar esta funcion previamente debemos convertir los objetos en componentes, una vez realizado este paso
 (clic derecho sobre el objeto&gt;crear componente) podemos utilizar la herramienta <em>&ldquo;organizar&rdquo;</em>, seleccionamos el plano en el cual nos va a distribuir las piezas, podemos alterar los datos de margen y tamaño de lienzo a utilizar, aceptamos los cambios y logramos ver las piezas en plano. </p>
@@ -691,7 +690,7 @@ En este punto pude resolver el volumen, pero restan los encastres, aplicaciones 
 <div class="md-source-date">
   <small>
     
-      Last update: <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="October 27, 2025 23:46:14 UTC">October 27, 2025</span>
+      Last update: <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="October 29, 2025 22:36:57 UTC">October 29, 2025</span>
     
   </small>
 </div>
