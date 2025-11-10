@@ -12,16 +12,17 @@ nav:
   - Home: index.md
   - About: about/me.md
 
-    - Modulos Diseño :
+    - Modulos Diseño:
     - MD01:diseño/md01.md
     - MD02:diseño/md02.md
+    - MD03:diseño/MD03.md
 
-  - Modulos Técnicos :
+  - Modulos Técnicos:
     - MT01: tecnicos/mt01.md
     - MT02: tecnicos/mt02.md
     - MT03: tecnicos/mt03.md
 
-  - Modulos Innovación :
+  - Modulos Innovación:
     - MI01: inn/mi01.md
     - MI02: inn/MI02.md
   - Proyecto Integrador:
