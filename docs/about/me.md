@@ -1,6 +1,6 @@
 # *Un poco de quien soy*
 
-![](../images/perfil.png)
+![](../images/profile5.png)
 
 
 Mi nombre es *Lucía Rodríguez* soy mamá de Piero y Simón, Diseñadora textil y docente de Diseño en la Escuela técnica de Minas.
