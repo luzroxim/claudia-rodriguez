@@ -11,10 +11,10 @@ repo_url: https://github.com/luzroxim/claudia-rodriguez
 nav:
   - Home: index.md
   - About: about/me.md
-    - Modulos Diseño:
+  - Modulos Diseño:
     - MD01:diseño/md01.md
     - MD02:diseño/md02.md
-    - MD03:diseño/MD03.md
+    - MD03:diseño/md03.md
   - Modulos Técnicos:
     - MT01: tecnicos/mt01.md
     - MT02: tecnicos/mt02.md
