@@ -11,15 +11,14 @@ Running/ coneccion con la naturaleza
 Trail Run 
 aplicación en plantillas 3D
 
-# MD03 
-### pre entrega 1 (micelio)
+# Pre entrega 1 (micelio)
 
 ![](../images/MD03/1.png)
 ![](../images/MD03/2.png)
 ![](../images/MD03/3.png)
 ![](../images/MD03/4.png)
 
-### Trama Sur
+# Trama Sur
 
 ![](../images/MD03/preentrega1%20(1).png)
 ![](../images/MD03/preentrega1%20(2).png)
