@@ -5,20 +5,7 @@ hide:
 
 # Ideas Iniciales
 
-Micelio
-impresión 3D 
-Running/ coneccion con la naturaleza
-Trail Run 
-aplicación en plantillas 3D
-
-# Pre entrega 1 (micelio)
-
-![](../images/MD03/1.png)
-![](../images/MD03/2.png)
-![](../images/MD03/3.png)
-![](../images/MD03/4.png)
-
-# Modificacion del tema
+El bosque nativo como archivo. El paisaje de Lavalleja como lenguaje. El textil como traducción.
 
 ![](../images/MD03/preentrega1%20(1).png)
 ![](../images/MD03/preentrega1%20(2).png)
