@@ -18,7 +18,7 @@ aplicación en plantillas 3D
 ![](../images/MD03/3.png)
 ![](../images/MD03/4.png)
 
-# Trama Sur
+# Modificacion del tema
 
 ![](../images/MD03/preentrega1%20(1).png)
 ![](../images/MD03/preentrega1%20(2).png)
