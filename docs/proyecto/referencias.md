@@ -1,7 +1,2 @@
----
-hide:
-    - toc
----
 
-# Ideas Iniciales
 

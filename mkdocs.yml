@@ -28,10 +28,12 @@ nav:
     - FP01: tecnicos/FP01.md
   - Modulos Innovación:
     - MI01: inn/mi01.md
-    - MI02: inn/MI02.md
+    - MI02: inn/mi02.md
   - Proyecto Integrador:
     - Ideas Iniciales: proyecto/proyecto.md
-    - anexos: proyecto/anexos.md
+    - Propuesta: proyecto/propuesta.md
+    - Desarrollo: proyecto/desarrollo.md
+    - Anexos: proyecto/anexos.md
   - Modulo Emprendimiento:
     - ME01: emprendimiento/me01.md
     - ME02: emprendimiento/me02.md
