@@ -19,9 +19,59 @@ La ausencia de herramientas técnicas adaptadas a las particularidades del ofici
 
 ![](../images/proyecto/martha%20(1).jpeg)
 
-Para darle un contexto a este problema realicé una entrevista a mi querida mentora Martha San Martín. 
+Para darle un contexto a este problema realicé una entrevista a mi querida mentora *Martha San Martín*. 
 
-Hay personas que no solo hacen ropa, sino que sostienen un oficio. Martha San Martín es una de ellas. Diseñadora de alta costura y referente del diseño de autor en Uruguay, su trayectoria está marcada por la resiliencia, la formación de nuevas generaciones y un compromiso profundo con el oficio textil como patrimonio vivo. A lo largo de los años no solo vistió y emocionó con su trabajo, sino que generó empleo, abrió puertas y hoy sigue aportando desde la enseñanza, formando a quienes serán el futuro del diseño nacional. En esta entrevista conversamos con ella sobre la pérdida del oficio, el lugar de la innovación y la fabricación digital en el territorio, y su mirada sobre el presente y futuro del rubro textil en Uruguay.
+Hay personas que no solo hacen ropa, sino que sostienen un oficio. Martha San Martín con sus 82 años es una de ellas. Diseñadora de alta costura y referente del diseño de autor en Uruguay, su trayectoria está marcada por la resiliencia, la formación de nuevas generaciones y un compromiso profundo con el oficio textil como patrimonio vivo. A lo largo de los años no solo vistió y emocionó con su trabajo, sino que generó empleo, abrió puertas y hoy sigue aportando desde la enseñanza, formando a quienes serán el futuro del diseño nacional. En esta entrevista conversamos con ella sobre la pérdida del oficio, el lugar de la innovación y la fabricación digital en el territorio, y su mirada sobre el presente y futuro del rubro textil en Uruguay.
+
+ ¿Cómo y cuándo comenzó tu camino en la alta costura? ¿Qué te atrapó del oficio en ese momento? 
+
+   *Mi camino empezó a los 15 años cuando empecé a hacerme ropa para mí me atrapó todas las técnicas que tenía este oficio y el yo poder con ese conocimiento hacer llevar al cabo lo que yo tenía en la cabeza.*
+
+A lo largo de tu carrera formaste y diste trabajo a muchas personas. ¿Qué significa para vos ese legado?
+
+   *Me llena de satisfacción saber que toda esta gente que trabajó conmigo consiguieron tener sus propios talleres y hasta el día de hoy viven de su oficio.*
+
+¿Qué fue lo más difícil que tuviste que atravesar como diseñadora en Uruguay, y qué te sostuvo en esos momentos?
+
+   *Lo más difícil fue empezar sin capital y tener que hacérmelo con trabajo, pero los resultados a través de mi esfuerzo llegué a tener una  marca reconocida hasta el día de hoy.*
+   *Lo que me sostuvo fue el deseo de querer ser en lo que me convertí y fueron motores de eso mis hijos.*
+
+ Hoy no has abandonado tu labor y aún te dedicás a dar clases y tutorías. ¿Qué es lo que más te gusta transmitir a las nuevas generaciones de diseñadores?
+
+  *Que no es una carrera fácil, y que si no hay pasión y amor es muy difícil de llevarla a cabo. Hay que tener mucha pasión para permanecer en este camino.*
+
+¿Sentís que el oficio de la alta costura se está perdiendo en Uruguay? ¿A qué creés que se debe? 
+   
+   *Lamentablemente se está perdiendo porque no hay gente que la transmita. En este momento hay un público para la alta costura, pero no está atendido, por falta de conocimiento.*
+   *por ejemplo: donde más veo una problemática desde el lado técnico es en la moldería y la confección. El tema es mucho más extenso pero resumidamente diría eso.*
+
+¿Cómo creés que se podría revalorizar el oficio frente a la lógica de la moda rápida y descartable?
+
+   *Esa es una de las cosas más difíciles porque obviamente el trabajo artesanal es caro. Si quieres hacer algo barato, tenes que bajar la calidad, y eso no está bueno. Es prácticamente imposible revalorizarlo sin ayuda de un público que lo consuma y es muy difícil competir con la ropa china.*
+
+¿Qué lugar creés que puede ocupar la fabricación digital (impresión 3D, corte láser, herramientas paramétricas) dentro de un oficio tan ligado a lo manual?
+
+  *yo dentro de mi trabajo he recurrido al corte láser. Entiendo que viviendo en una era tecnológica hay que recurrir a distintos tipos de tecnología, sino quedas afuera, además es un tema que con mi edad lo desconozco, o lo conozco de una manera muy superficial.*
+
+¿Ves la tecnología como una amenaza para el oficio tradicional, o como una herramienta que puede potenciarlo?
+
+*Lo veo como una herramienta que puede potenciar lo sin ninguna duda, porque he visto trabajos con las técnicas nuevas y son increíbles.*
+
+¿Conocés o te interesan experiencias de diseñadores que combinan técnicas artesanales con fabricación digital? ¿Qué opinás de esa convivencia?
+*No conozco pero me gustaría investigar más. Porque pienso que en el fondo son tan valiosos como lo que hicimos nosotros sin la tecnología.*
+
+¿Qué pensás sobre los materiales textiles que se consiguen actualmente en Uruguay? ¿Sentís que hay carencias o oportunidades sin explotar?
+
+   *Eso es con lo que se chocan los diseñadores nuevos, nosotros trabajábamos con fibras naturales, con lanas verdaderas, y en este momento no existen las textiles en este país, entonces tenes que recurrir a lo que encontras. Hay una carencia enorme y muy poca gente trabaja con buena técnica.*  
+   
+ ¿Creés que es posible desarrollar una identidad textil propia, ligada a nuestra geografía y materiales locales?
+ 
+ ¿Cómo ves hoy al rubro textil y de la moda en Uruguay? ¿Qué cambios notás respecto a otras épocas?
+
+¿Qué le falta al sector para crecer y sostenerse en el tiempo?
+
+ ¿Qué consejo le darías a quienes hoy están empezando en el diseño de autor en nuestro país?
+
 
 ![](../images/proyecto/Martha2.jpg)
 
