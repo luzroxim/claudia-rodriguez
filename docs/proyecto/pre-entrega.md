@@ -5,10 +5,6 @@ hide:
 
 # Ideas que disparan este proyecto
 
-El bosque nativo como archivo. El paisaje de Lavalleja como lenguaje. El textil como traducción.
-
-![](../images/proyecto/paso%20de%20los%20troncos.jpg)
-
 Paso de los Troncos, Lavalleja Uruguay
 Heladas al amanecer por Elizabeth (Productora Rural) 
 PH: https://www.instagram.com/elizabethcesaraviaga/
