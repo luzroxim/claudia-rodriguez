@@ -7,6 +7,12 @@ hide:
 
 El bosque nativo como archivo. El paisaje de Lavalleja como lenguaje. El textil como traducción.
 
+![](../images/proyecto/paso%20de%20los%20troncos.jpg)
+
+Paso de los Troncos, Lavalleja Uruguay
+Heladas al amanecer por Elizabeth (Productora Rural) 
+PH: https://www.instagram.com/elizabethcesaraviaga/
+
 ### El problema
 
 El diseño de autor textil en Uruguay constituye una práctica cultural y productiva de alto valor simbólico y artesanal, pero enfrenta un conjunto de tensiones estructurales que comprometen su viabilidad, su continuidad generacional y su capacidad de innovación.
@@ -15,9 +21,13 @@ La ausencia de herramientas técnicas adaptadas a las particularidades del ofici
 
 ### Entrevista a Martha San Martín
 
+![](../images/proyecto/martha%20(1).jpeg)
+
 Para darle un contexto a este problema realicé una entrevista a mi querida mentora Martha San Martín. 
 
 Hay personas que no solo hacen ropa, sino que sostienen un oficio. Martha San Martín es una de ellas. Diseñadora de alta costura y referente del diseño de autor en Uruguay, su trayectoria está marcada por la resiliencia, la formación de nuevas generaciones y un compromiso profundo con el oficio textil como patrimonio vivo. A lo largo de los años no solo vistió y emocionó con su trabajo, sino que generó empleo, abrió puertas y hoy sigue aportando desde la enseñanza, formando a quienes serán el futuro del diseño nacional. En esta entrevista conversamos con ella sobre la pérdida del oficio, el lugar de la innovación y la fabricación digital en el territorio, y su mirada sobre el presente y futuro del rubro textil en Uruguay.
+
+![](../images/proyecto/Martha2.jpg)
 
 
 ### Propuesta del Proyecto. 
@@ -55,5 +65,9 @@ primeras experiencias
 
 
 
-CRISTALIZACIÓN: 
+CRISTALIZACIÓN: ensayos de cristales sobre textiles, aplicacion de tutoriales efdi. 
 
+IPRESIÓN 3d SOBRE TEXTILES: pruebas sobre diferentes materiales, generar diseños enfocados en una inspiración con 
+
+
+![](../images/proyecto/validacion%20de%20técnicas.png)
