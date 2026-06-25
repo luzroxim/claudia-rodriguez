@@ -16,7 +16,9 @@ La ausencia de herramientas técnicas adaptadas a las particularidades del ofici
 <details>
 <summary> Entrevista a Martha San Martín, Diseñadora Uruguaya</summary>
 
+
 ![](../images/proyecto/martha%20(1).jpeg)
+
 
 Para darle un contexto a este problema realicé una entrevista a mi querida mentora *Martha San Martín*. 
 
