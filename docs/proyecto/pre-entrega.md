@@ -1,7 +1,5 @@
----
 hide:
     - toc
----
 
 # Ideas que disparan este proyecto
 
@@ -15,7 +13,8 @@ El diseño de autor textil en Uruguay constituye una práctica cultural y produc
 
 La ausencia de herramientas técnicas adaptadas a las particularidades del oficio, la dependencia de insumos importados y la progresiva pérdida de saberes tradicionales configuran un escenario de vulnerabilidad que requiere intervención desde la investigación aplicada y la fabricación digital.
 
-### Entrevista a Martha San Martín
+<details>
+<summary> Entrevista a Martha San Martín, Diseñadora Uruguaya</summary>
 
 ![](../images/proyecto/martha%20(1).jpeg)
 
@@ -74,6 +73,7 @@ A lo largo de tu carrera formaste y diste trabajo a muchas personas. ¿Qué sign
 
 
 ![](../images/proyecto/Martha2.jpg)
+</details>
 
 
 ### Propuesta del Proyecto. 
@@ -111,9 +111,19 @@ primeras experiencias
 
 
 
-CRISTALIZACIÓN: ensayos de cristales sobre textiles, aplicacion de tutoriales efdi. 
+
+### Cristalización
+ ensayos de cristales sobre textiles, aplicacion de tutoriales efdi. 
 
 IPRESIÓN 3d SOBRE TEXTILES: pruebas sobre diferentes materiales, generar diseños enfocados en una inspiración con 
 
 
 ![](../images/proyecto/validacion%20de%20técnicas.png)
+
+<details>
+<summary>Más información — desplegar contenido adicional</summary>
+
+Aquí puedes añadir información ampliada, enlaces, recursos técnicos o notas metodológicas relacionadas con las líneas de investigación, protocolos y pruebas realizadas. Reemplaza este texto con el contenido que quieras mostrar cuando el usuario haga clic.
+
+
+</details>
