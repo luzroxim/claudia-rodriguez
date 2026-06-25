@@ -27,6 +27,12 @@ Como resultado de esta investigación, inicié un repositorio de buenas práctic
 
 Para que este proyecto fuese mas honesto con mi parte creativa le di un enfoque conceptual enlazado con nuestro territorio, pensar en la fibra que  surge de nuestras raices y los espacios que habitamos, hablar desde una trama que nos ideantifique y se sienta propia. Relicé un moodboard de inspiración que me ayudó a ordenar y tomar deciciones en el proceso, buscar un lineamiento de gráficos para poder aplicar sobre todo en las impresion 3d y el corte láser. En el pueden ver imágenes conceptuales y algunas muy reales de la zona en la que nací, Paso de los Troncos Lavalleja. 
 
+![](./images/proyecto/inspiracion.png)
+
+
+
+
+
 
 
 
