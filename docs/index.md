@@ -18,38 +18,36 @@
 
 <details>
 <summary>
-<img src="./images/proyecto/7.jpg" alt="Corte láser" style="width:100%; border-radius:12px; display:block;" />
+<img src="./images/proyecto/7.jpg" alt="Cristalización" style="width:100%; border-radius:12px; display:block;" />
 </summary>
 
 #### Cristalización
 Ver +
 
-[Ver ficha completa](tutoriales/exp-corte-laser.md)
+[Ver ficha completa](fichas/exp-cristalizacion.md)
 
 </details>
 
 <details>
 <summary>
-<img src="./images/proyecto/8.jpg" alt="Materiales" style="width:100%; border-radius:12px; display:block;" />
+<img src="./images/proyecto/8.jpg" alt="Impresión 3D" style="width:100%; border-radius:12px; display:block;" />
 </summary>
 
-#### Impresión 3d sobre textiles
+#### Impresión 3D sobre textiles
 Ver +
 
-[Ver ficha completa](tutoriales/exp-materiales.md)
+[Ver ficha completa](fichas/exp-impresion-3d.md)
 
 </details>
 
 <details>
 <summary>
-<img src="./images/proyecto/9.jpg" alt="Prototipos" style="width:100%; border-radius:12px; display:block;" />
+<img src="./images/proyecto/9.jpg" alt="Cristalización" style="width:100%; border-radius:12px; display:block;" />
 </summary>
 
-#### Corte láser y plisado.
+
 Ver +
-
-[Ver ficha completa](tutoriales/exp-prototipos.md)
-
+[Ver ficha completa](fichas/exp-corte-laser-3d.md)
 </details>
 
 ### Video

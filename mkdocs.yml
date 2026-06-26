@@ -34,10 +34,10 @@ nav:
     - Propuesta: proyecto/propuesta.md
     - Desarrollo: proyecto/desarrollo.md
     - Anexos: proyecto/anexos.md
-  - Tutoriales:
-    - Cristalización: Ficha/exp-cristalizacion.md
-    - Impresión 3D: Ficha/exp-impresion-3d.md
-    - Corte láser: Ficha/exp-corte-laser.md
+  - Fichas:
+    - Cristalización: fichas/exp-cristalizacion.md
+    - Impresión 3D: fichas/exp-impresion-3d.md
+    - Corte láser: fichas/exp-corte-laser.md
   - Modulo Emprendimiento:
     - ME01: emprendimiento/me01.md
     - ME02: emprendimiento/me02.md
