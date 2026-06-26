@@ -3,7 +3,7 @@ hide:
 
 # ✂️ Corte láser
 
-- **Created:** 2026
+- **Created:** Junio 2026
 - **Tags:** Experimentación, Materiales, Corte láser, diseño textil
 
 ![Corte láser](../images/proyecto/9.jpg)
