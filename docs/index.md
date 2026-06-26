@@ -50,6 +50,9 @@ Ver +
 [Ver ficha completa](fichas/exp-corte-laser-3d.md)
 </details>
 
+![](./images/proyecto/10.jpg)
+
+
 ### Video
 
 https://youtu.be/ieU1R_zO40Y?si=-jJbZZgYer89wXfK
