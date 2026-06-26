@@ -34,7 +34,6 @@ Ver +
 </summary>
 
 #### Impresión 3D sobre textiles
-Ver +
 
 [Ver ficha completa](fichas/exp-impresion-3d.md)
 
@@ -46,8 +45,7 @@ Ver +
 </summary>
 
 
-Ver +
-[Ver ficha completa](fichas/exp-corte-laser-3d.md)
+➡️ [Ver ficha completa](fichas/exp-corte-laser.md)
 </details>
 
 ![](./images/proyecto/10.jpg)
