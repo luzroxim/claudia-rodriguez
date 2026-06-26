@@ -1,10 +1,10 @@
-hide:
-  - toc
+hide: 
+- toc
 
 # ✂️ Corte láser
 
-- **Created:** 2024
-- **Tags:** Experimentación, Materiales, Máquinas
+- **Created:** 2026
+- **Tags:** Experimentación, Materiales, Corte láser, diseño textil
 
 ![Corte láser](../images/proyecto/9.jpg)
 

@@ -34,7 +34,7 @@ Ver +
 </summary>
 
 #### Impresión 3D sobre textiles
-
+➡️
 [Ver ficha completa](fichas/exp-impresion-3d.md)
 
 </details>
