@@ -55,8 +55,5 @@ Ver +
 
 ### Video
 
-https://youtu.be/ieU1R_zO40Y?si=-jJbZZgYer89wXfK
-
-
-
+[Ver video en YouTube](https://youtu.be/ieU1R_zO40Y?t=12){:target="_blank"}
 
