@@ -14,27 +14,45 @@
 
 ![](./images/proyecto/6.jpg)
 
-### Repositorio 
+### Experimentación
 
 <details>
 <summary>
-<img src="./images/proyecto/7.jpg" alt="Experimentación" style="width:100%; border-radius:12px; display:block;" />
+<img src="./images/proyecto/7.jpg" alt="Corte láser" style="width:100%; border-radius:12px; display:block;" />
 </summary>
 
-#### Más sobre esta experimentación
-Encuentra 
+#### Cristalización
+Ver +
 
-[Ver la página completa del tutorial](proyecto/pre-entrega.md)
+[Ver ficha completa](tutoriales/exp-corte-laser.md)
 
 </details>
 
-![](./images/proyecto/8.jpg)
+<details>
+<summary>
+<img src="./images/proyecto/8.jpg" alt="Materiales" style="width:100%; border-radius:12px; display:block;" />
+</summary>
 
-![](./images/proyecto/9.jpg)
+#### Impresión 3d sobre textiles
+Ver +
+
+[Ver ficha completa](tutoriales/exp-materiales.md)
+
+</details>
+
+<details>
+<summary>
+<img src="./images/proyecto/9.jpg" alt="Prototipos" style="width:100%; border-radius:12px; display:block;" />
+</summary>
+
+#### Corte láser y plisado.
+Ver +
+
+[Ver ficha completa](tutoriales/exp-prototipos.md)
+
+</details>
 
 ### Video
-
-
 
 
 
