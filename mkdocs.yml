@@ -10,6 +10,11 @@ repo_url: https://github.com/luzroxim/claudia-rodriguez
 
 nav:
   - Home: index.md
+  - Repositorio:
+      - Corte láser sobre textiles: tutoriales/mi-tutorial.md
+      - Impresión 3D: tutoriales/mi-tutorial2.md
+      - Plisado,plegado,corte láser: tutoriales/mi-tutorial3.md
+      - Cristalización con alumbre en textiles: tutoriales/mi-tutorial4.md
   - About: about/me.md
   - Modulos Diseño :
     - MD01: diseno/md01.md
