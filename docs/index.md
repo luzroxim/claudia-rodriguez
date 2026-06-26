@@ -1,38 +1,58 @@
-EFDI
-Hola, soy Lucía.
-Diseñadora textil & docente. 
+## Tutoriales rápidos
 
-Aquí podés explorar la documentación del proyecto que desarrollé durante la Especialización en Fabricación Digital e Innovación de UTEC.
+<div class="tutorial-grid">
 
+<article class="tutorial-card">
+  <a href="proyecto/pre-entrega.md">
+    <img src="./images/proyecto/inspiracion.png" alt="Inspiración del proyecto">
+    <h3>Ideas que disparan este proyecto</h3>
+    <p>Entrada rápida para conocer el contexto y la génesis del proyecto.</p>
+  </a>
+</article>
 
-A lo largo de este proceso estuve:
+<article class="tutorial-card">
+  <a href="diseno/md01.md">
+    <img src="./images/proyecto/referencias.png" alt="Referencias creativas">
+    <h3>Diseño conceptual</h3>
+    <p>Un vistazo a la idea, el moodboard y el proceso creativo.</p>
+  </a>
+</article>
 
-1. **Investigando** las problemáticas del diseño de autor en el rubro textil dentro de la región.
+<article class="tutorial-card">
+  <a href="tecnicos/mt01.md">
+    <img src="./images/proyecto/Martha2.jpg" alt="Validación de técnicas">
+    <h3>Validación de técnicas</h3>
+    <p>Mini guía sobre pruebas de materiales y procesos técnicos.</p>
+  </a>
+</article>
 
-2. **Explorando** de qué maneras la fabricación digital puede tender un puente entre la confección tradicional y las nuevas generaciones.
+</div>
+
+###
+![](./images/proyecto/1.jpg)
+
+![](./images/proyecto/2.jpg)
+
+### Problema y contexto
+![](./images/proyecto/3.jpg)
+
+### Alcance y propuesta
+
+![](./images/proyecto/4.jpg)
+
+![](./images/proyecto/5.jpg)
+
+![](./images/proyecto/6.jpg)
+
+### Experimentación
+
+![](./images/proyecto/7.jpg)
    
-3. **Experimentando y generando prototipos** con técnicas y herramientas de fabricación digital e innovación para generar una propuesta de investigación orientada a producir materiales textiles con una identidad que nos represente.
-   
+![](./images/proyecto/8.jpg)
 
-### ¿Por qué?
+![](./images/proyecto/9.jpg)
 
-El diseño textil de autor en Uruguay enfrenta una doble crisis: la escasez de insumos locales de calidad y la pérdida progresiva del oficio artesanal. Los saberes tradicionales se diluyen sin un espacio donde documentarse y transmitirse, mientras que las nuevas herramientas digitales aún no dialogan con ese acervo cultural.
-
-
-### ¿Cómo y para quien? 
-
-Como resultado de esta investigación, inicié un repositorio de buenas prácticas y procedimientos. En él unifico información y procesos validados con insumos locales, bajo un modelo de *código abierto y distribuido*, para que estudiantes, colegas y cualquier persona afin a esta idea pueda empezar a crear y/o modificar sus materiales. 
-
-### Un marco de inspiración. 
-
-Para que este proyecto fuese mas honesto con mi parte creativa le di un enfoque conceptual enlazado con nuestro territorio, pensar en la fibra que  surge de nuestras raices y los espacios que habitamos, hablar desde una trama que nos ideantifique y se sienta propia. Relicé un moodboard de inspiración que me ayudó a ordenar y tomar deciciones en el proceso, buscar un lineamiento de gráficos para poder aplicar sobre todo en las impresion 3d y el corte láser. En el pueden ver imágenes conceptuales y algunas muy reales de la zona en la que nací, Paso de los Troncos Lavalleja. 
-
-![](./images/proyecto/inspiracion.png)
-
-
-
-
-
+### Repositorio
 
 
 
