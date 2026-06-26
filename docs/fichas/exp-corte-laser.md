@@ -1,6 +1,5 @@
 hide: 
 - toc
-
 # ✂️ Corte láser
 
 - **Created:** Junio 2026
